@@ -1,0 +1,27 @@
+gen1
+In this language translator and text to voice generator is done in the project
+
+
+Gen3
+NLP based projects
+
+
+Gen4
+Langchain based  projects 
+
+
+Gen5
+RAG based projects
+
+
+Gen6
+Lamini based projects
+
+
+Gen7
+text to video projects
+creative project
+
+
+Gen8
+multi pdf project
